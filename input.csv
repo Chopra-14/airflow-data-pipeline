@@ -1,0 +1,11 @@
+id,name,age,city,salary,join_date
+1,John Doe,28,New York,55000.50,2022-03-15
+2,Jane Smith,35,San Francisco,75000.00,2021-07-22
+3,Mike Johnson,42,Chicago,68000.75,2020-11-10
+4,Alice Brown,51,Boston,82000.00,2019-01-05
+5,Robert King,29,Austin,48000.00,2023-02-14
+6,Emma Wilson,33,Seattle,62000.00,2021-08-30
+7,David Lee,46,Denver,79000.00,2020-05-19
+8,Sophia Clark,26,Miami,45000.00,2023-06-01
+9,Daniel Harris,58,Dallas,90000.00,2018-09-12
+10,Olivia Martin,39,San Jose,71000.00,2022-12-20
